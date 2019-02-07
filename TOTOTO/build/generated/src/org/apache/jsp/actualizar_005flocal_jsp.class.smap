@@ -1,0 +1,23 @@
+SMAP
+actualizar_005flocal_jsp.java
+JSP
+*S JSP
+*F
++ 0 actualizar_local.jsp
+actualizar_local.jsp
++ 1 coneccion.jsp
+coneccion.jsp
+*L
+5:55
+10,12:56
+5#1,11:68
+22,13:79
+34,4:92
+21#0,7:95
+28,6:103
+33,2:109
+35,4:111,3
+39,6:123
+45,25:130
+69,4:155
+*E
